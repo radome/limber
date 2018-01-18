@@ -9,7 +9,7 @@ AllCops:
     - node_modules/**/*
     - bin/webpack
     - bin/webpack-dev-server
-Style/VariableNumber:
+Naming/VariableNumber:
   Enabled: false
 Rails:
   Enabled: true
